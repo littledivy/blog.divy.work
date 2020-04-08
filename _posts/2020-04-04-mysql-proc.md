@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Playing with MySQL stored procedures
+comments: true
 ---
 
 This is kind of a self note to myself in case I forget how to define Stored Procedures.
